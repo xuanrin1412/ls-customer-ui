@@ -185,7 +185,7 @@ function Customers() {
                 <Table
                     className="custom-table"
                     size="small"
-                    style={{ width: "1060px" }}
+                    style={{ width: "100%" }}
                     columns={columns}
                     rowSelection={{}}
                     dataSource={dataSource}
