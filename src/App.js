@@ -1,5 +1,4 @@
 import "./App.css";
-import AppFooter from "./Components/AppFooter";
 import AppHeader from "./Components/AppHeader";
 import PageContent from "./Components/PageContent";
 import SideMenu from "./Components/SideMenu";
@@ -12,7 +11,6 @@ function App() {
                 <SideMenu></SideMenu>
                 <PageContent></PageContent>
             </div>
-            <AppFooter />
         </div>
     );
 }

@@ -183,7 +183,6 @@ function Customers() {
         sanpham: (
             <div>
                 <Table
-                    className="custom-table"
                     size="small"
                     style={{ width: "100%" }}
                     columns={columns}
